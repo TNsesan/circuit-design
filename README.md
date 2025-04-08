@@ -12,4 +12,6 @@
 ## CMOS Inverter design and Analysis
 
 ### CMOS DC Analysis
+![dc analysis](./images/ngspice2.png)
+![vin_vout](./images/vin_vout2.png)
 ### CMOS Transient Analysis

@@ -7,6 +7,7 @@
   - [2.2 CMOS transient analysis](##12-Tools-and-PDK-setup)
 ---
 ## INTRODUCTION
+./images/inverter_sch.png
 ---
 ## CMOS Inverter design and Analysis
 

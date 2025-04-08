@@ -6,9 +6,8 @@
   - [2.1 CMOS DC analysis](##11-Tools-and-PDK-setup)
   - [2.2 CMOS transient analysis](##12-Tools-and-PDK-setup)
 ---
-## INTRODUCTION
-NZKCNZKLCN
----
+## INTRODUCTION 
+![INVERTER](.images/inverter_sch.png)
 ## CMOS Inverter design and Analysis
 
 ### CMOS DC Analysis

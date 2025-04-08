@@ -1,1 +1,2 @@
-# cmos inverter design_sky130pdk_xscheme
+# cmos inverter design_sky130pdk_xscheme_ngspice
+## content

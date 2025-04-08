@@ -15,3 +15,5 @@
 ![dc analysis](./images/ngspice2.png)
 ![vin_vout](./images/vin_vout2.png)
 ### CMOS Transient Analysis
+![tran analysis](./images/ngspice1.png)
+![tran out]](./images/tran_output1.png)

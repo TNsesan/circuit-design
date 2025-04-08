@@ -7,7 +7,7 @@
   - [2.2 CMOS transient analysis](##12-Tools-and-PDK-setup)
 ---
 ## INTRODUCTION 
-![INVERTER](.images/ngspice1.png)
+![INVERTER](./cmos inverter design_sky130pdk_xscheme/images/inverter_sch.png)
 
 ## CMOS Inverter design and Analysis
 
